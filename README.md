@@ -8,5 +8,6 @@ Yes, it is the whole movie script.
 
 Enjoy!
 
+(Available On Project Zomboid's Steam Workshop)
 Workshop ID: 3602347086
 Mod ID: AMinecraftMovieVHS
