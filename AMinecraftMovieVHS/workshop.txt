@@ -1,10 +1,6 @@
 version=1
-title=pzmc-Template
-description=[h2]Brief 1 sentence description.[/h2]
-description=
-description=[url=https://discord.gg/SReMnbV4V7][img]https://raw.githubusercontent.com/Chuckleberry-Finn/chuckImages/main/PZmodCommBanner2.png[/img][/url]
+title=A Minecraft Movie VHS
 description=
 description=
-description=[h3]Copyright 2024 <USERNAME>. This item is not authorized for posting on Steam, except under the Steam account named <USERNAME>.[/h3]
-tags=Build 41;
+tags=Build 41, 42;
 visibility=unlisted
