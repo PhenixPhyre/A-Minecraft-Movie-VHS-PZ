@@ -1,6 +1,10 @@
 version=1
-title=A Minecraft Movie VHS
+id=3602347086
+title=VHS: A Minecraft Movie [B41|B42]
+description=A Minecraft Movie, now in Project Zomboid
 description=
+description=Yes, it is the whole movie script.
 description=
-tags=Build 41, 42;
-visibility=unlisted
+description=Enjoy!
+tags=Build 41;Items;Literature;Misc;Multiplayer;Pop Culture;Silly/Fun
+visibility=public
